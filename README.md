@@ -51,9 +51,11 @@
 
 <div align="center">
 
-![Vinicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gunngn1r&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Vinicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gunngn1r&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunngn1r&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunngn1r&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&cache_seconds=1800)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gunngn1r&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
 </div>
 
