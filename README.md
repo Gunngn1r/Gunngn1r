@@ -6,8 +6,8 @@
 **Desenvolvedor Frontend** apaixonado por transformar ideias em interfaces bonitas e funcionais.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Gunngn1r.github.io-black?style=flat-square&logo=github)](https://gunngn1r.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=flat-square&logo=gmail)](mailto:SEU-EMAIL-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/vinicius-a-459a07129)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=flat-square&logo=gmail)](mailto:viniciusanjossss02@gmail.com)
 
 </div>
 
