@@ -53,18 +53,6 @@ Crio interfaces web responsivas e fáceis de usar. Graduando em Ciências da Com
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Vinicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gunngn1r&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunngn1r&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&cache_seconds=1800)
-
-</div>
-
----
-
 ## 🎯 Estudando agora
 
 - TypeScript aplicado a projetos React
