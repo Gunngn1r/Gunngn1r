@@ -42,6 +42,9 @@ Crio interfaces web responsivas e fáceis de usar. Graduando em Ciências da Com
 
 ## 📌 Projetos em Destaque
 
+### 🔴 [Pokédex](https://github.com/Gunngn1r/pokedex)
+> Pokédex com os 1025 Pokémon, busca, filtro por tipo, favoritos e tela de detalhes. React, TypeScript e PokéAPI.
+
 ### 🛒 [Bikcraft](https://github.com/Gunngn1r/bikcraft) · [ver online](https://gunngn1r.github.io/bikcraft)
 > Site de uma loja de bicicletas elétricas artesanais, com layout responsivo. HTML, CSS e JavaScript.
 
