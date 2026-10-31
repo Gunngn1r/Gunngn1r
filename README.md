@@ -1,11 +1,12 @@
-
 <div align="center">
 
-# Olá, eu sou o Vinicius 👋
+# Olá, eu sou o Vinicius Anjos 👋
 
-**Desenvolvedor Frontend** apaixonado por transformar ideias em interfaces bonitas e funcionais.
+**Desenvolvedor Front-end** · React · JavaScript · TypeScript
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Gunngn1r.github.io-black?style=flat-square&logo=github)](https://gunngn1r.github.io)
+Crio interfaces web responsivas e fáceis de usar. Graduando em Ciências da Computação (Estácio) e técnico em Informática.
+
+[![Portfolio](https://img.shields.io/badge/Portfólio-Gunngn1r.github.io-black?style=flat-square&logo=github)](https://gunngn1r.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/vinicius-a-459a07129)
 [![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=flat-square&logo=gmail)](mailto:viniciusanjossss02@gmail.com)
 
@@ -15,35 +16,40 @@
 
 ## Sobre mim
 
-- 🎯 Foco em **desenvolvimento frontend** com atenção a design e experiência do usuário
-- 🌱 Atualmente aprendendo **JavaScript** e explorando frameworks modernos
-- 🚀 Buscando minha primeira oportunidade como desenvolvedor júnior
-- 📍 Ceará, Brasil
-- 💬 Pode me perguntar sobre **HTML, CSS e UI/UX**
+- 💼 1 ano e 2 meses como estagiário de desenvolvimento na **SCIO Tech**, criando aplicações web com **React, JavaScript, HTML e CSS**
+- 🛠️ Experiência anterior em suporte de TI na Ceará Motor (Grupo Volkswagen), o que me deu visão prática de como as pessoas usam os sistemas
+- 📱 Também desenvolvo apps mobile com **React Native, Expo e TypeScript**
+- 🎯 Buscando oportunidade como **desenvolvedor front-end júnior**
+- 📍 Aquiraz, Ceará, Brasil
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### 🛒 [Bikcraft](https://github.com/Gunngn1r/bikcraft)
-> Loja virtual de bicicletas artesanais — projeto completo com HTML e CSS, focado em layout responsivo e design.
+### 🛒 [Bikcraft](https://github.com/Gunngn1r/bikcraft) · [ver online](https://gunngn1r.github.io/bikcraft)
+> Site de uma loja de bicicletas elétricas artesanais, com layout responsivo. HTML, CSS e JavaScript.
 
-### 🌐 [Web](https://github.com/Gunngn1r/Web)
-> Projetos e experimentos desenvolvidos durante meu aprendizado de desenvolvimento web.
+### ☕ [CafeScore](https://github.com/Gunngn1r/CafeScoreApp)
+> App mobile de diário de degustação de cafés, com notas de 1 a 5 salvas em banco SQLite local. React Native, Expo e TypeScript.
 
 ### 🤖 [Email Classifier AI](https://github.com/Gunngn1r/email-classifier-ai)
-> Sistema de classificação automática de emails usando IA — classifica como Produtivo ou Improdutivo e sugere respostas automáticas.
+> Classifica e-mails como produtivos ou improdutivos e sugere respostas automáticas usando IA. Python e Flask.
 
 ---
 
@@ -55,25 +61,20 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunngn1r&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&cache_seconds=1800)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gunngn1r&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
 </div>
 
 ---
 
-## 🎯 Próximos Passos
+## 🎯 Estudando agora
 
-- [ ] Aprender React.js
-- [ ] Aprofundar em JavaScript (ES6+, APIs, assíncrono)
-- [ ] Criar um projeto full-stack
-- [ ] Contribuir com projetos open source
+- TypeScript aplicado a projetos React
+- Tailwind CSS
+- Node.js para criar um projeto full-stack
 
 ---
 
 <div align="center">
 
 *"Cada linha de código é uma oportunidade de aprender algo novo."*
-
-![Visitors](https://komarev.com/ghpvc/?username=Gunngn1r&color=58a6ff&style=flat-square&label=Visitas+ao+perfil)
 
 </div>
